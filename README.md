@@ -13,7 +13,7 @@ In this lab, I have contributed to finding bus in the python file. Luckily I fou
 
 **Github: @Ah87979**
 
-In this contribution, I have enhanced the program's error handling by introducing a ZeroDivisionError exception. This exception is raised when the user attempts to divide a number by zero, a common source of runtime errors. Instead of simply printing an error message to the screen, which can be overlooked or ignored, the program now actively alerts the user to this mathematical impossibility.
+In this contribution, I have enhanced the program's error handling by introducing a ZeroDivisionError exception. This exception is raised when the user attempts to divide a number by zero, a common source of runtime errors. Instead of simply printing an error message to the screen, which can be overlooked or ignored, the program now actively alerts the user.
 By raising a ZeroDivisionError exception, the program provides more informative and actionable error messages. Instead of silently continuing execution with incorrect results, the program halts and notifies the user of the division-by-zero attempt. This contribution enhances the overall robustness and reliability of the program by addressing a potential source of runtime errors.
 To leverage this enhancement, simply execute the program as usual. If a division by zero is attempted, the program will raise a ZeroDivisionError exception, clearly indicating the issue.
 
