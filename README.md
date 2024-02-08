@@ -4,7 +4,7 @@
 
 **Github: @BibiAasiyaa**
 
-In this lab, I have contributed to finding bus in the python file. Luckily I found 2 of them which is the square root and power functions. We used git bash to record and track our progress, updating each of them to github. The bugs were found when sample test cases were ran. I solved the bug for power function by using the correct symbol aka '**' and added another print statement for square root function to return the square root value of the second input since it'd only execute for the first input as the function takes one paramter only.
+In this lab, I have contributed to finding bugs in the python file. Luckily I found 2 of them which is the square root and power functions. We used git bash to record and track our progress, updating each of them to Github. The bugs were found when sample test cases were ran. I solved the bug for power function by using the correct symbol aka '**' and added another print statement for square root function to return the square root value of the second input since it'd only execute for the first input as the function takes one parameter only.
 
 
 **Ahmed Hassan Hussein**
