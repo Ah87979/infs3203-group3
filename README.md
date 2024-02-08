@@ -4,7 +4,7 @@
 
 **Github: @Ah87979**
 
-
+I have made an contribution in the program by raising a ZeroDivisionError exception when the user attempts to divide a number by 0, instead of printing to the screen.
 
 **Samuel Nisan Suresh**
 
